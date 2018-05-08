@@ -25,3 +25,6 @@ Example usage:
 
 
 python3 uccxpu.py -f -a testupload.wav -u uccxadmin -p uccxadminpassword -d default 10.10.10.10
+
+
+Uploading is process by shell script. But there is no big deal to port it on Windows, it is just cURL with several of parameters, so if you have free time - go ahead.
