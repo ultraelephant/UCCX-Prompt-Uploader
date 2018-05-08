@@ -12,13 +12,13 @@ Keys by order:
 
 -f [--force] force overwrite existing prompt
 
--a [--promptname] full or relative prompt file name | mandatory
+-a [--promptname] full or relative prompt file name | __mandatory__
 
--u [--username] uccx rest api user name            | mandatory
+-u [--username] uccx rest api user name            | __mandatory__
 
--p [--password] uccx rest api user password        | mandatory
+-p [--password] uccx rest api user password        | __mandatory__
 
--d [--directory] uccx prompt storage directory     | mandatory
+-d [--directory] uccx prompt storage directory     | __mandatory__
 
 
 Example usage:
